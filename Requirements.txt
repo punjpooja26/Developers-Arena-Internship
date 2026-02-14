@@ -1,0 +1,26 @@
+
+## 💡 What I Learned
+- How Python executes code step by step
+- Taking user input with input()
+- Using variables to store data
+- Formatting output using f-strings
+- Writing a simple interactive program
+
+## 🧪 Testing Evidence
+Example Input:
+Name: Alex  
+Age: 21  
+Hobby: Coding  
+City: Delhi  
+
+Output:
+🎉 Welcome Alex! 🎉  
+You are 21 years old and you love Coding.  
+It's great to know you are from Delhi. 😊
+
+## 📚 Concepts Used
+- Variables
+- Strings
+- Input / Output
+- Basic Python syntax
+
